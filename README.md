@@ -18,208 +18,49 @@ Practice with the fundamentals of JavaScript; designed to give a strong foundati
 
 ## Results
 
-*coming soon*
-
-<!-- <table>
-
+<table>
 <tr>
-<td width="47%">
 
-### 01 - CSS Methods
-
-</td>
-<td width="6%"></td>
-<td width="47%"></td>
-</tr>
-
-<tr>
 <td>
 
-#### UNSTYLED
+### 01 - helloWord
+
+![helloWorld test results](./img/01_helloWorld.png)
 
 </td>
-<td></td>
 <td>
 
-#### STYLED
+### 02 - addNumber
+
+![addNumber test results](./img/02_addNumbers.png)
 
 </td>
 </tr>
-
 <tr>
 <td>
 
-![css methods unstyled](./img/unstyled1.png)
+### 03 - numberChecker
 
-</td>
-<td align="center">
-<h1>&rArr;</h1>
+![numberChecker test results](./img/03_numberChecker.png)
+
 </td>
 <td>
 
-![css methods styled](./img/styled1.png)
+### 04 - mathEquations
+
+![mathEquations test results](./img/04_mathEquations.png)
 
 </td>
 </tr>
-
 <tr>
 <td>
 
-### 02 - Class ID Selectors
+### 05 - joinStrings
+
+![joinStrings test results](./img/05_joinStrings.png)
 
 </td>
-<td></td>
-<td></td>
+
 </tr>
+</table>
 
-<tr>
-<td>
-
-#### UNSTYLED
-
-</td>
-<td></td>
-<td>
-
-#### STYLED
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-![css methods unstyled](./img/unstyled2.png)
-
-</td>
-<td align="center">
-<h1>&rArr;</h1>
-</td>
-<td>
-
-![css methods styled](./img/styled2.png)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 03 - Grouping Selectors
-
-</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>
-
-#### UNSTYLED
-
-</td>
-<td></td>
-<td>
-
-#### STYLED
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-![grouping selectors unstyled](./img/unstyled3.png)
-
-</td>
-<td align="center">
-<h1>&rArr;</h1>
-</td>
-<td>
-
-![grouping selectors styled](./img/styled3.png)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 04 - Chaining Selectors
-
-</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>
-
-#### UNSTYLED
-
-</td>
-<td></td>
-<td>
-
-#### STYLED
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-![chaining selectors unstyled](./img/unstyled4.png)
-
-</td>
-<td align="center">
-<h1>&rArr;</h1>
-</td>
-<td>
-
-![chaining selectors styled](./img/styled4.png)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 05 - Descendant Combinator
-
-</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>
-
-#### UNSTYLED
-
-</td>
-<td></td>
-<td>
-
-#### STYLED
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-![descendant combinator unstyled](./img/unstyled5.png)
-
-</td>
-<td align="center">
-<h1>&rArr;</h1>
-</td>
-<td>
-
-![descendant combinator styled](./img/styled5.png)
-
-</td>
-</tr>
-
-</table> -->
