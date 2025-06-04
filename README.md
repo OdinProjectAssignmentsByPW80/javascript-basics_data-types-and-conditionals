@@ -10,11 +10,11 @@ Practice with the fundamentals of JavaScript; designed to give a strong foundati
 
 ## Assignment Instructions
 
- - [01 - helloWord &rArr;](./01_helloWorld/)
- - [02 - addNumbers &rArr;](./02_addNumbers/)
- - [03 - numberChecker &rArr;](./03_numberChecker/)
- - [04 - mathEquations &rArr;](./04_mathEquations/)
- - [05 - joinStrings &rArr;](./05_joinStrings/)
+ - [01 - helloWord &rArr;](./js-exercises/01_helloWorld/)
+ - [02 - addNumbers &rArr;](./js-exercises/02_addNumbers/)
+ - [03 - numberChecker &rArr;](./js-exercises/03_numberChecker/)
+ - [04 - mathEquations &rArr;](./js-exercises/04_mathEquations/)
+ - [05 - joinStrings &rArr;](./js-exercises/05_joinStrings/)
 
 ## Results
 
